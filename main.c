@@ -58,15 +58,15 @@ void cria_tabelas(){
 		printf("Erro: na Insersão\n");
 		return;
 	}
-	
+
 }
 void insere_valores(){
-	//descobrir como fazer pra inserir no depois de pronto!!
+	//criar essas duas funçoes
 }
 void mostra_valores(){
 }
 
-int main(){ 
+int main(){
 
 	int op = 0, menu_inicial = 1;
 
